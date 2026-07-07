@@ -21,11 +21,11 @@ I enjoy turning small everyday frustrations into simple software.
 
 ### 🌿 Featured Projects
 
-🕒 Pomodoro
+#### 🕒 Pomodoro
 A minimal desktop Pomodoro timer.
 
-🪟 Window
+#### 🪟 Window
 A tiny app for sharing everyday moments with someone you love.
 
-☕ Coffee Intelligence *(Work in Progress)*
+#### ☕ Coffee Intelligence *(Work in Progress)*
 Collect, organize and summarize coffee market information.
