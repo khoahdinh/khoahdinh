@@ -2,15 +2,15 @@
 
 > I enjoy turning small everyday frustrations into simple software.
 
-🌱 Currently exploring Python through personal projects
+- Currently exploring Python through personal projects
 
-💻 Working with C, PHP, JavaScript & TypeScript
+- Working with C, PHP, JavaScript & TypeScript
 
-🛠 Building small projects to learn, explore, and solve real problems.
+- Building small projects to learn, explore, and solve real problems.
 
-📫 Feel free to reach out here on GitHub.
+- Feel free to reach out here on GitHub.
 
-### 🛠 Languages & Tools
+## Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -18,3 +18,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
+## Featured Projects
+
+Window: A tiny app for sharing everyday moments with someone you love.
+
+Pomodoro: A minimal desktop Pomodoro timer.
+
+Coffee Intelligence *(coming soon)*: Collect, organize and summarize coffee market information.
