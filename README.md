@@ -18,10 +18,3 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-## Featured Projects
-
-Window: A tiny app for sharing everyday moments with someone you love.
-
-Pomodoro: A minimal desktop Pomodoro timer.
-
-Coffee Intelligence *(coming soon)*: Collect, organize and summarize coffee market information.
