@@ -1,5 +1,4 @@
 # Hi, I'm Khoa (Lucien) 👋
-> Build small things that make everyday life a little better.
 
 I enjoy turning small everyday frustrations into simple software.
 
@@ -16,9 +15,6 @@ I enjoy turning small everyday frustrations into simple software.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### 📊 GitHub Stats
-
-![khoahdinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoahdinh&show_icons=true&theme=default)
 
 ### 🌿 Featured Projects
 
